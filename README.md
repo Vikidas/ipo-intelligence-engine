@@ -2,7 +2,7 @@
 
 > A machine learning system that predicts whether an upcoming Indian IPO will list at a gain — trained on 559 real IPOs from 2010 to 2025.
 
-**Live App:** [ipo-intelligence-engine.streamlit.app](#) ← replace with your actual link after deploying
+**Live App:**(https://vikidas-ipo-intelligence-engine-app-qn89ei.streamlit.app/)← replace with your actual link after deploying
 
 ---
 
